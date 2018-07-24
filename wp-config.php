@@ -23,7 +23,7 @@
 define('DB_NAME', 'maricadb2');
 
 /** Usuário do banco de dados MySQL */
-define('DB_USER', 'maricaus');
+define('DB_USER', 'maricaus2');
 
 /** Senha do banco de dados MySQL */
 define('DB_PASSWORD', 'EJ46r*/Kl(r');

@@ -85,7 +85,6 @@ $table_prefix  = 'dterra_';
 define('WP_DEBUG', false);
 
 define('WPLANG', 'pt_BR');
-define('WP_LANG_DIR', $_SERVER['DOCUMENT_ROOT'].'wordpress/languages');
 
 /* Isto é tudo, pode parar de editar! :) */
 
